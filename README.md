@@ -16,7 +16,8 @@
 * Spring Boot; 
 * Spring Data JPA; 
 * Spring web; 
-* Spring freemaker; 
+* Spring freemaker;
+* Lombok;
 * PostgreSQL.
 
 ## Команда для запуска
